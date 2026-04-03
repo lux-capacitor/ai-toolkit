@@ -1,0 +1,8 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# MVP ADDITIONS : 
+# Symlinks created by ai-setup.sh — local only, not to be committed
+.claude/skills
+.claude/agents
+.github/skills
+.github/agents
